@@ -1,0 +1,19 @@
+{
+  "name": "@sudoo/triforce-storybook",
+  "version": "1.0.0",
+  "description": "Storybook Config and Dependencies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Sudoo-Triforce-Storybook.git"
+  },
+  "keywords": [
+    "sudoo"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Sudoo-Triforce-Storybook/issues"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce-Storybook#readme"
+}
