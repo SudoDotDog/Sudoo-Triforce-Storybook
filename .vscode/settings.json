@@ -1,12 +1,14 @@
 {
     "cSpell.words": [
-        "WMXPY",
+        "docgen",
         "downlevel",
         "eslintignore",
         "ifeq",
         "mocharc",
+        "storysource",
         "sudoo",
-        "triforce"
+        "triforce",
+        "WMXPY"
     ],
     "cSpell.enableFiletypes": [
         "makefile"
