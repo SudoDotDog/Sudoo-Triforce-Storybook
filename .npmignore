@@ -13,6 +13,7 @@ docs
 test
 
 # Configs
+.github
 .vscode
 .travis.yml
 .gitignore
