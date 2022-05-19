@@ -15,7 +15,7 @@
     "url": "https://github.com/SudoDotDog/Sudoo-Triforce-Storybook/issues"
   },
   "dependencies": {
-    "@storybook/addon-a11y": "^6.4.22",
+    "@storybook/addon-a11y": "^6.5.3",
     "@storybook/addon-docs": "^6.4.22",
     "@storybook/addon-essentials": "^6.4.22",
     "@storybook/addon-storysource": "^6.4.22",
