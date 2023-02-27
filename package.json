@@ -24,7 +24,7 @@
     "core-js": "^3.28.0",
     "react-docgen-typescript": "^2.2.2",
     "react-docgen-typescript-loader": "^3.7.2",
-    "storybook-addon-react-docgen": "^1.2.42"
+    "storybook-addon-react-docgen": "^1.2.43"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce-Storybook#readme"
 }
