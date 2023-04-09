@@ -20,7 +20,7 @@
     "@storybook/addon-essentials": "^6.5.15",
     "@storybook/addon-storysource": "^6.5.16",
     "@storybook/cli": "^6.5.16",
-    "@storybook/react": "^6.5.16",
+    "@storybook/react": "^7.0.2",
     "core-js": "^3.30.0",
     "react-docgen-typescript": "^2.2.2",
     "react-docgen-typescript-loader": "^3.7.2",
